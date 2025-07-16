@@ -7,4 +7,4 @@ A simple real-time chat application built using React and Firebase
 - Responsive design
 - Chat rooms or private messages
 
-# This project is under development
+(This project is under development)
